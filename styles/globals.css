@@ -1,0 +1,25 @@
+body{
+  background: black;
+}
+.coin_app{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0px;
+  color: #fff;
+  background: black;
+}
+.layout{
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+}
+.header{
+  display: flex;
+  justify-content: center;
+  margin:0px;
+}
+.coin_logo{
+  height: 200px;
+  width: 200px;
+}
